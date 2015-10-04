@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Jesuscoin</source>
-        <translation>Jesuscoin hakkında</translation>
+        <source>About Beggarcoin</source>
+        <translation>Beggarcoin hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Jesuscoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Jesuscoin&lt;/b&gt; sürüm</translation>
+        <source>&lt;b&gt;Beggarcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Beggarcoin&lt;/b&gt; sürüm</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Jesuscoin developers</source>
-        <translation>Jesuscoin geliştiricileri</translation>
+        <source>The Beggarcoin developers</source>
+        <translation>Beggarcoin geliştiricileri</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Jesuscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Jesuscoin adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
+        <source>These are your Beggarcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için Beggarcoin adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Jesuscoin address</source>
-        <translation>Bir Jesuscoin adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
+        <source>Sign a message to prove you own a Beggarcoin address</source>
+        <translation>Bir Beggarcoin adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Jesuscoin address</source>
-        <translation>Belirtilen Jesuscoin adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
+        <source>Verify a message to ensure it was signed with a specified Beggarcoin address</source>
+        <translation>Belirtilen Beggarcoin adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Jesuscoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme yapmak için kullanacağınız Jesuscoin adreslerinizdir. Jesuscoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
+        <source>These are your Beggarcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme yapmak için kullanacağınız Beggarcoin adreslerinizdir. Beggarcoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,7 +248,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR JESUSCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BEGGARCOINS&lt;/b&gt;!</source>
         <translation>Uyarı: Eğer cüzdanınızı şifrelerseniz ve parolanızı kaybederseniz, &lt;b&gt;TÜM BİTCOİNLERİNİZİ KAYBEDERSİNİZ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Jesuscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your jesuscoins from being stolen by malware infecting your computer.</source>
-        <translation>Şifreleme işlemini tamamlamak için Jesuscoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Jesuscoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
+        <source>Beggarcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your beggarcoins from being stolen by malware infecting your computer.</source>
+        <translation>Şifreleme işlemini tamamlamak için Beggarcoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Beggarcoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Jesuscoin</source>
-        <translation>Jesuscoin hakkında bilgi göster</translation>
+        <source>Show information about Beggarcoin</source>
+        <translation>Beggarcoin hakkında bilgi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Jesuscoin address</source>
-        <translation>Bir Jesuscoin adresine Jesuscoin yolla</translation>
+        <source>Send coins to a Beggarcoin address</source>
+        <translation>Bir Beggarcoin adresine Beggarcoin yolla</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Jesuscoin</source>
-        <translation>Jesuscoin seçeneklerinin yapılandırmasını değiştir</translation>
+        <source>Modify configuration options for Beggarcoin</source>
+        <translation>Beggarcoin seçeneklerinin yapılandırmasını değiştir</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Jesuscoin</source>
-        <translation>Jesuscoin</translation>
+        <source>Beggarcoin</source>
+        <translation>Beggarcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Jesuscoin</source>
-        <translation>Jesuscoin &amp;Hakkında</translation>
+        <source>&amp;About Beggarcoin</source>
+        <translation>Beggarcoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Jesuscoin addresses to prove you own them</source>
-        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Jesuscoin adresleri ile imzala</translation>
+        <source>Sign messages with your Beggarcoin addresses to prove you own them</source>
+        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Beggarcoin adresleri ile imzala</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Jesuscoin addresses</source>
-        <translation>Belirtilen Jesuscoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified Beggarcoin addresses</source>
+        <translation>Belirtilen Beggarcoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Jesuscoin client</source>
-        <translation>Jesuscoin istemcisi</translation>
+        <source>Beggarcoin client</source>
+        <translation>Beggarcoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Jesuscoin network</source>
-        <translation><numerusform>Jesuscoin şebekesine %n faal bağlantı</numerusform><numerusform>Jesuscoin şebekesine %n faal bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Beggarcoin network</source>
+        <translation><numerusform>Beggarcoin şebekesine %n faal bağlantı</numerusform><numerusform>Beggarcoin şebekesine %n faal bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Jesuscoin address or malformed URI parameters.</source>
-        <translation>URI okunamadı! Sebebi geçersiz bir Jesuscoin adresi veya hatalı URI parametreleri olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Beggarcoin address or malformed URI parameters.</source>
+        <translation>URI okunamadı! Sebebi geçersiz bir Beggarcoin adresi veya hatalı URI parametreleri olabilir.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Jesuscoin can no longer continue safely and will quit.</source>
-        <translation>Ciddi bir hata oluştu. Jesuscoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
+        <source>A fatal error occurred. Beggarcoin can no longer continue safely and will quit.</source>
+        <translation>Ciddi bir hata oluştu. Beggarcoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Jesuscoin address.</source>
-        <translation>Girilen &quot;%1&quot; adresi geçerli bir Jesuscoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Beggarcoin address.</source>
+        <translation>Girilen &quot;%1&quot; adresi geçerli bir Beggarcoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Jesuscoin-Qt</source>
-        <translation>Jesuscoin-Qt</translation>
+        <source>Beggarcoin-Qt</source>
+        <translation>Beggarcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Jesuscoin after logging in to the system.</source>
-        <translation>Sistemde oturum açıldığında Jesuscoin&apos;i otomatik olarak başlat.</translation>
+        <source>Automatically start Beggarcoin after logging in to the system.</source>
+        <translation>Sistemde oturum açıldığında Beggarcoin&apos;i otomatik olarak başlat.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Jesuscoin on system login</source>
-        <translation>Jesuscoin&apos;i sistem oturumuyla &amp;başlat</translation>
+        <source>&amp;Start Beggarcoin on system login</source>
+        <translation>Beggarcoin&apos;i sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Jesuscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide Jesuscoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the Beggarcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide Beggarcoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Jesuscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Jesuscoin şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
+        <source>Connect to the Beggarcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Beggarcoin şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Jesuscoin.</source>
-        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Jesuscoin tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Beggarcoin.</source>
+        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Beggarcoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -940,12 +940,12 @@ Adres: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Jesuscoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>Beggarcoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Jesuscoin addresses in the transaction list or not.</source>
-        <translation>Muamele listesinde Jesuscoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
+        <source>Whether to show Beggarcoin addresses in the transaction list or not.</source>
+        <translation>Muamele listesinde Beggarcoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Jesuscoin.</source>
-        <translation>Bu ayarlar Jesuscoin tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>This setting will take effect after restarting Beggarcoin.</source>
+        <translation>Bu ayarlar Beggarcoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,7 +1015,7 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Jesuscoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Beggarcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Görüntülenen veriler zaman aşımına uğramış olabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak şebeke ile eşleşir ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start jesuscoin: click-to-pay handler</source>
-        <translation>Jesuscoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start beggarcoin: click-to-pay handler</source>
+        <translation>Beggarcoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Jesuscoin-Qt help message to get a list with possible Jesuscoin command-line options.</source>
-        <translation>Mevcut Jesuscoin komut satırı seçeneklerinin listesini içeren Jesuscoin-Qt yardımını göster.</translation>
+        <source>Show the Beggarcoin-Qt help message to get a list with possible Beggarcoin command-line options.</source>
+        <translation>Mevcut Beggarcoin komut satırı seçeneklerinin listesini içeren Beggarcoin-Qt yardımını göster.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Jesuscoin - Debug window</source>
-        <translation>Jesuscoin - Hata ayıklama penceresi</translation>
+        <source>Beggarcoin - Debug window</source>
+        <translation>Beggarcoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Jesuscoin Core</source>
-        <translation>Jesuscoin Çekirdeği</translation>
+        <source>Beggarcoin Core</source>
+        <translation>Beggarcoin Çekirdeği</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Jesuscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Güncel veri klasöründen Jesuscoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
+        <source>Open the Beggarcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Güncel veri klasöründen Beggarcoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Jesuscoin RPC console.</source>
-        <translation>Jesuscoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Beggarcoin RPC console.</source>
+        <translation>Beggarcoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Adres: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Jesuscoin yolla</translation>
+        <translation>Beggarcoin yolla</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Jesuscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Jesuscoin adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Beggarcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Beggarcoin adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Jesuscoin address</source>
-        <translation>Bu Jesuscoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
+        <source>Sign the message to prove you own this Beggarcoin address</source>
+        <translation>Bu Beggarcoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Jesuscoin address</source>
-        <translation>Belirtilen Jesuscoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified Beggarcoin address</source>
+        <translation>Belirtilen Beggarcoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Jesuscoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Jesuscoin adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Beggarcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Beggarcoin adresi giriniz (mesela Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Jesuscoin signature</source>
-        <translation>Jesuscoin imzası gir</translation>
+        <source>Enter Beggarcoin signature</source>
+        <translation>Beggarcoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Jesuscoin developers</source>
-        <translation>Jesuscoin geliştiricileri</translation>
+        <source>The Beggarcoin developers</source>
+        <translation>Beggarcoin geliştiricileri</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1784,7 +1784,7 @@ Adres: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan Jesuscoin&apos;lerin harcanabilmelerinden önce 120 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan Beggarcoin&apos;lerin harcanabilmelerinden önce 120 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2137,7 +2137,7 @@ Adres: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Jesuscoin yolla</translation>
+        <translation>Beggarcoin yolla</translation>
     </message>
 </context>
 <context>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Jesuscoin version</source>
-        <translation>Jesuscoin sürümü</translation>
+        <source>Beggarcoin version</source>
+        <translation>Beggarcoin sürümü</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or jesuscoind</source>
-        <translation>-server ya da jesuscoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or beggarcoind</source>
+        <translation>-server ya da beggarcoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: jesuscoin.conf)</source>
-        <translation>Yapılandırma dosyası belirt (varsayılan: jesuscoin.conf)</translation>
+        <source>Specify configuration file (default: beggarcoin.conf)</source>
+        <translation>Yapılandırma dosyası belirt (varsayılan: beggarcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: jesuscoind.pid)</source>
-        <translation>Pid dosyası belirt (varsayılan: jesuscoind.pid)</translation>
+        <source>Specify pid file (default: beggarcoind.pid)</source>
+        <translation>Pid dosyası belirt (varsayılan: beggarcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=jesuscoinrpc
+rpcuser=beggarcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Beggarcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, şu yapılandırma dosyasında rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=jesuscoinrpc
+rpcuser=beggarcoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.
 Dosya mevcut değilse, sadece sahibi için okumayla sınırlı izin ile oluşturunuz.
 Sorunlar hakkında bildiri almak için alertnotify unsurunu ayarlamanız tavsiye edilir;
-mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
+mesela: alertnotify=echo %%s | mail -s &quot;Beggarcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Jesuscoin is probably already running.</source>
-        <translation>%s veri dizininde kilit elde edilemedi. Jesuscoin muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. Beggarcoin is probably already running.</source>
+        <translation>%s veri dizininde kilit elde edilemedi. Beggarcoin muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2363,7 +2363,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     <message>
         <location line="+6"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - jesuscoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - beggarcoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2377,8 +2377,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Jesuscoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse Jesuscoin gerektiği gibi çalışamaz.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Beggarcoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse Beggarcoin gerektiği gibi çalışamaz.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2518,7 +2518,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation>Jesuscoin oluştur (varsayılan: 0)</translation>
+        <translation>Beggarcoin oluştur (varsayılan: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2627,8 +2627,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Jesuscoin Wiki for SSL setup instructions)</source>
-        <translation> SSL seçenekleri: (SSL kurulum bilgisi için Jesuscoin vikisine bakınız)</translation>
+        <source>SSL options: (see the Beggarcoin Wiki for SSL setup instructions)</source>
+        <translation> SSL seçenekleri: (SSL kurulum bilgisi için Beggarcoin vikisine bakınız)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Jesuscoin</source>
-        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir Jesuscoin sürümüne ihtiyacı var</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Beggarcoin</source>
+        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir Beggarcoin sürümüne ihtiyacı var</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Jesuscoin to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için Jesuscoin&apos;i yeniden başlatınız</translation>
+        <source>Wallet needed to be rewritten: restart Beggarcoin to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için Beggarcoin&apos;i yeniden başlatınız</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Jesuscoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Jesuscoin is probably already running.</source>
-        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Jesuscoin muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. Beggarcoin is probably already running.</source>
+        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Beggarcoin muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+64"/>

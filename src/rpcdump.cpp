@@ -36,7 +36,7 @@ Value importprivkey(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 1 || params.size() > 3)
         throw runtime_error(
-            "importprivkey <jesuscoinprivkey> [label] [rescan=true]\n"
+            "importprivkey <beggarcoinprivkey> [label] [rescan=true]\n"
             "Adds a private key (as returned by dumpprivkey) to your wallet.");
 
     string strSecret = params[0].get_str();
@@ -79,13 +79,13 @@ Value dumpprivkey(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 1)
         throw runtime_error(
-            "dumpprivkey <jesuscoinaddress>\n"
-            "Reveals the private key corresponding to <jesuscoinaddress>.");
+            "dumpprivkey <beggarcoinaddress>\n"
+            "Reveals the private key corresponding to <beggarcoinaddress>.");
 
     string strAddress = params[0].get_str();
     CBitcoinAddress address;
     if (!address.SetString(strAddress))
-        throw JSONRPCError(RPC_INVALID_ADDRESS_OR_KEY, "Invalid Jesuscoin address");
+        throw JSONRPCError(RPC_INVALID_ADDRESS_OR_KEY, "Invalid Beggarcoin address");
     CKeyID keyID;
     if (!address.GetKeyID(keyID))
         throw JSONRPCError(RPC_TYPE_ERROR, "Address does not refer to a key");
